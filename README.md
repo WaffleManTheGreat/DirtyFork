@@ -14,4 +14,6 @@ Auto Updating Loadstring:
 
 --Right Ctrl Toggles The Aimbot UI
 
+--IF AIMBOT DOESNT WORK PLEASE RUN THE BYPASS THEN RUN YOUR CHOICE AIMBOT (i recommend roware)
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/WaffleManTheGreat/DirtyFork/main/main'))()
