@@ -1,6 +1,9 @@
 # DirtyFork
 A (currently) Unpatched and COMPLETLY free script for Trident Survival on roblox!
 
+![image](https://user-images.githubusercontent.com/113483280/190527751-d559e72c-8efc-49ac-97f1-6f56c73bc775.png)
+
+
 Auto Updating Loadstring: 
 
 
