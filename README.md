@@ -7,7 +7,7 @@ Auto Updating Loadstring:
 
 
 
-```
+```grey
 --Made with love, WaffleManTheGreat
 
 --Please click on the bypass first on the ui
