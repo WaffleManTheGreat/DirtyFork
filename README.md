@@ -1,8 +1,8 @@
 # DirtyFork
 
-I will work on anticheat fix tommorrow.
-until then please DO NOT use fullbright, flight, or freecam.
-
+THIS WAS FOR OLD TRIDENT SURVIVAL!
+IT IS NOW PATCHED AND NOT WORKED ON ANYMORE
+NEW SCRIPT HERE https://github.com/WaffleManTheGreat/DirtySpoon-FTrident
 
 
 A (currently) SEMI patched and COMPLETLY free script for Trident Survival on roblox!
