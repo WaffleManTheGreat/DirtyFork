@@ -5,7 +5,7 @@ IT IS NOW PATCHED AND NOT WORKED ON ANYMORE
 NEW SCRIPT HERE https://github.com/WaffleManTheGreat/DirtySpoon-FTrident
 
 
-A (currently) SEMI patched and COMPLETLY free script for Trident Survival on roblox!
+old patched COMPLETLY free script for Trident Survival on roblox
 
 ![image](https://user-images.githubusercontent.com/113483280/191412978-845901fc-b480-4e7b-a7ea-5af4b6caea06.png)
 
